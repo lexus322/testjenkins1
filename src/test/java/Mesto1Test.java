@@ -5,9 +5,7 @@ import io.restassured.RestAssured;
 import org.junit.Before;
 import org.junit.Test;
 
-
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.equalTo;
 
 public class Mesto1Test {
 
